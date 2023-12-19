@@ -1,0 +1,15 @@
+Nombre del regalo: Auriculares
+Comentarios: Marca Sony
+Enlace: www.sony.com
+Nombre del regalo: Libro
+Comentarios: Be the best version of you
+Enlace: www.amazon.es
+Nombre del regalo: Bolsa Gimnasio
+Comentarios: Con dos separadores
+Enlace: https://www.freecodecamp.org/news/php-array-length-how-to-get-an-array-size/
+Nombre del regalo: Calculadora
+Comentarios: Casio
+Enlace: www.casiocalc.com
+Nombre del regalo: Boligrago
+Comentarios: el que sea
+Enlace: www.amazon.es

@@ -1,0 +1,94 @@
+body {
+    /* font-family: 'Whisper', cursive; */
+    letter-spacing: 2px;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+
+button {
+    /* font-family: 'Whisper', cursive; */
+    font-size: 2rem !important;
+    padding: 10px;
+    background-color: #8c8c8c;
+    color: #fff;
+    border: 1px solid #6b6b6b;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 16px;
+    letter-spacing: 1px;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #6b6b6b;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+h1 {
+    color: #333;
+    text-align: center;
+}
+
+h2 {
+    color: #333;
+}
+input {
+    padding: 10px;
+    margin-bottom: 16px;
+}
+li {
+    margin-bottom: 8px;
+}
+
+label {
+    font-size: 2em;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.add-regalo-container,
+.carta-container {
+    max-width: 600px;
+    margin: 50px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.add-regalo-container h1{
+    font-size: 3rem;
+}
+
+.carta-container h2{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+.regalo{
+    margin: 0 30px;
+   
+}
+
+
+.volver{
+    /* font-family: 'Whisper', cursive; */
+    font-size: 1.5rem !important;
+    background-color: #8c8c8c;
+    color: #fff;
+    border: 1px solid #6b6b6b;
+    cursor: pointer;
+    letter-spacing: 1px;
+    transition: background-color 0.3s ease;
+}
+.volver:hover{
+    background-color: #6b6b6b;
+}
